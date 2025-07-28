@@ -1,5 +1,7 @@
 # 哔哩哔哩规则
 
+去用 [anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) 了，此项目已弃坑。
+
 # ip归属地
 ```
   bilibili:
